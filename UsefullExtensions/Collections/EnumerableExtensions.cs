@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace UsefulExtensions.Extensions
+namespace UsefulExtensions.Collections
 {
     public static class EnumerableExtensions
     {

@@ -2,8 +2,9 @@
 using System.Linq;
 using System.Linq.Dynamic.Core;
 using System.Linq.Expressions;
+using UsefulExtensions.Strings;
 
-namespace UsefulExtensions.Extensions
+namespace UsefulExtensions.Collections
 {
     public static class QueryableExtensions
     {

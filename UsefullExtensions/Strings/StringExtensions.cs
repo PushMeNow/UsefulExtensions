@@ -1,4 +1,4 @@
-﻿namespace UsefulExtensions.Extensions
+﻿namespace UsefulExtensions.Strings
 {
     public static class StringExtensions
     {
